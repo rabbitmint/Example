@@ -1,0 +1,4 @@
+name: PUBG
+version: '1.0-SNAPSHOT'
+main: com.rabbitmint.pubg
+api-version: '1.20'
