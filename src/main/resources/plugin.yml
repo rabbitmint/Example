@@ -1,4 +1,4 @@
-name: PUBG
+name: example
 version: '1.0-SNAPSHOT'
-main: com.rabbitmint.pubg
+main: com.rabbitmint.example
 api-version: '1.20'
