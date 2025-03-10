@@ -1,7 +1,7 @@
 package com.rabbitmint;
 
 public interface info {
-    String Name = "PUBG: 마인크래프트";
+    String Name = "example";
     String Developer = "RabbitMint";
     String Version = "0.1";
     String BuildDate = "2024.10.17";
